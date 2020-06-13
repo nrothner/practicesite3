@@ -2415,7 +2415,7 @@ input, select, textarea {
 				background: #b1ddab;
 				color: #fff;
 			}
-
+/*
 	.dropotron {
 		list-style: none;
 		background: #6B7770;
@@ -2473,7 +2473,7 @@ input, select, textarea {
 				border-left: solid 1em transparent;
 				border-right: solid 1em transparent;
 			}
-
+*/
 /* Banner */
 
 	#banner {
@@ -2552,6 +2552,7 @@ input, select, textarea {
 	.sidebar h2.major {
 		text-align: left;
 		margin: 0 0 1.5em 0;
+		list-style-type: none;
 	}
 
 		.sidebar h2.major span {
@@ -2562,7 +2563,7 @@ input, select, textarea {
 
 	#footer {
 		text-align: center;
-		padding: 8em 0 8em 0;
+		padding: 2em 0 2em 0;
 	}
 
 		#footer a {
@@ -2683,7 +2684,7 @@ input, select, textarea {
 		/* Footer */
 
 			#footer {
-				padding: 6em 0 6em 0;
+				padding: 2em 0 2em 0;
 			}
 
 	}
@@ -3080,7 +3081,7 @@ input, select, textarea {
 		/* Footer */
 
 			#footer {
-				padding: 3em 0;
+				padding: .1em 0;
 			}
 
 		/* Copyright */
